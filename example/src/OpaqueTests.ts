@@ -1,4 +1,4 @@
-import * as opaque from 'react-native-opaque';
+import * as opaque from 'react-native-opaque-p256';
 import { describe, expect, test } from './Test';
 
 function setupAndRegister(

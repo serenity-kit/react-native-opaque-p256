@@ -15,7 +15,7 @@ rustlib_xcconfig = {
 }
 
 Pod::Spec.new do |s|
-  s.name         = "react-native-opaque"
+  s.name         = "react-native-opaque-p256"
   s.version      = package["version"]
   s.summary      = package["description"]
   s.homepage     = package["homepage"]
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "11.0" }
-  s.source       = { :git => "https://github.com/serenity-kit/react-native-opaque.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/serenity-kit/react-native-opaque-p256.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm}", "cpp/**/*.{h,cpp}"
 

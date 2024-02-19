@@ -1,17 +1,17 @@
-# react-native-opaque
+# react-native-opaque-p256
 
 React Native client for the OPAQUE Protocol
 
 ## Installation
 
 ```sh
-npm install react-native-opaque
+npm install react-native-opaque-p256
 ```
 
 ## Usage
 
 ```js
-import * as opaque from 'react-native-opaque';
+import * as opaque from 'react-native-opaque-p256';
 
 const password = 'sup-krah.42-UOI'; // user password
 
@@ -25,7 +25,7 @@ const { clientRegistrationState, registrationRequest } =
 Since on web the package uses Web Assembly under the hood, it needs to be loaded asynchronously. To offer the same API the module is loaded internally, but in addition the API offers a `ready` Promise that will resolve once the module is loaded and ready to be used.
 
 ```ts
-import * as opaque from 'react-native-opaque';
+import * as opaque from 'react-native-opaque-p256';
 
 const password = 'sup-krah.42-UOI'; // user password
 

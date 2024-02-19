@@ -10,7 +10,7 @@ import {
   TextInput,
   View,
 } from 'react-native';
-import * as opaque from 'react-native-opaque';
+import * as opaque from 'react-native-opaque-p256';
 import { Tests } from './TestResults';
 
 async function request(method: string, url: string, body: any = undefined) {

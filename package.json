@@ -1,5 +1,5 @@
 {
-  "name": "react-native-opaque",
+  "name": "react-native-opaque-p256",
   "version": "0.3.1",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -49,13 +49,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/serenity-kit/react-native-opaque",
+  "repository": "https://github.com/serenity-kit/react-native-opaque-p256",
   "author": "Nik Graf <nik@nikgraf.com> (https://github.com/nikgraf)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/serenity-kit/react-native-opaque/issues"
+    "url": "https://github.com/serenity-kit/react-native-opaque-p256/issues"
   },
-  "homepage": "https://github.com/serenity-kit/react-native-opaque#readme",
+  "homepage": "https://github.com/serenity-kit/react-native-opaque-p256#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

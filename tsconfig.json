@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-opaque": ["./src/index"]
+      "react-native-opaque-p256": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
